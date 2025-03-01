@@ -1,0 +1,25 @@
+{
+  "name": "sdc",
+  "version": "1.0.0",
+  "description": "source code for shydev blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-that/sdc.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Ayush Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayush-that/sdc/issues"
+  },
+  "homepage": "https://github.com/ayush-that/sdc#readme",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
